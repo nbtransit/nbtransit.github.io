@@ -61,7 +61,7 @@ background-size: 100%;
 }
 
 h1{
-  font-size: 80px;
+  font-size: 60px;
   color: white;
   font-family: Tahoma, sans-serif;
   text-align: center;
@@ -83,7 +83,7 @@ a{
   width:30%;
 }
 
-#west{
+#wes{
   float:180px;
 
   padding-left:  405px;
