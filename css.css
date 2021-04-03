@@ -47,7 +47,7 @@ width: 400px;
 height: 50px;
 }
 
-table{
+table, #west{
   margin-left: auto;
  margin-right: auto;
  float:center;
